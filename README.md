@@ -97,14 +97,8 @@ The notebook guides you through the process of:
 
 After training the models, the notebook provides code to evaluate their performance on the test dataset. The results are presented using accuracy, precision, recall, and F1-score metrics.
 
-## Contributing
-
-We welcome contributions to this project. If you find any issues or have suggestions for improvements, please create a pull request. Before submitting a pull request, make sure to discuss major changes with the project maintainers.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
----
 
-Thank you for using our Email Spam Detection Machine Learning Project! If you have any questions or need further assistance, please don't hesitate to contact us or open an issue on GitHub.
